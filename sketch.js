@@ -87,6 +87,6 @@ function draw() {
 
 function keyTyped() {
   if (key === 'i') {
-    tela = 1;
+    tela == 1;
   }
 }
